@@ -1,0 +1,15 @@
+.title-img {
+  /*追加*/
+  display: flex;
+  /*追加*/
+  justify-content: center;
+  /*追加*/
+  align-items: center;
+  background: url("../img/title-img.JPG") no-repeat top center / cover;
+  height: 250px;
+  color: #fff;
+  font-size: 200%;
+  font-weight: bold;
+  text-shadow: 2px 2px #000;
+  margin: 0%;
+}
