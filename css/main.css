@@ -5,7 +5,7 @@
   justify-content: center;
   /*追加*/
   align-items: center;
-  background: url("../img/title-img.jpeg") no-repeat top center / cover;
+  background: url("../img/title-img.jpeg") no-repeat center center / cover;
   height: 250px;
   color: #fff;
   font-size: 200%;
