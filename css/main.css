@@ -14,14 +14,23 @@
   transform: translate(-50%, -50%);
   color: #fff;
   font-weight: bold;
-  text-shadow: 0.3vw 0.3vw #000;
   width: 100%;
 }
 
 .title-text h1 {
   font-size: 5vw;
+  text-shadow: 0.25vw 0.25vw #000;
 }
 
 .title-text h5 {
   font-size: 3vw;
+  text-shadow: 0.15vw 0.15vw #000;
+}
+
+.about {
+  background: #f8f9fa;
+}
+
+.abtbtn {
+  width: 100%;
 }
